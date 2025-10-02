@@ -1,2 +1,2 @@
 # IT
-123
+Information support system for the repair of machinery
